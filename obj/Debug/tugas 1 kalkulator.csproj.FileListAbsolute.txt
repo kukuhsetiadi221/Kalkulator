@@ -1,0 +1,8 @@
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\bin\Debug\tugas 1 kalkulator.exe.config
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\bin\Debug\tugas 1 kalkulator.exe
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\bin\Debug\tugas 1 kalkulator.pdb
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\obj\Debug\tugas 1 kalkulator.csproj.AssemblyReference.cache
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\obj\Debug\tugas 1 kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\obj\Debug\tugas 1 kalkulator.csproj.CoreCompileInputs.cache
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\obj\Debug\tugas 1 kalkulator.exe
+D:\Pemrograman C#\Tugas 1\tugas 1 kalkulator\obj\Debug\tugas 1 kalkulator.pdb
